@@ -4,6 +4,6 @@ projemde sunum dosyasında kodların genel açıklaması bulunmaktadır. Kendi v
 
 veri setinin oluşturduktan sonra veri setinin dosya yolunu "Sign language translation assistant from image to text (1)" dosyasında ki base_dir değişkenine atayarak çalıştırabilirsiniz. 
 
-bu proje sequential() model ile eğitilmiştir.
+
 colab üzerinden yazılmıştır.
 CNN mimarisi ile resim üzerinden algılanan harfin anlamını yazan bir işaret dili çevirme asistanıdır. 
